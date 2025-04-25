@@ -1,12 +1,5 @@
 ---
-title: Notes for sharing
+title: Building
 ---
-Some content here
-some more content down here
+Work in progress... 
 
-## a heading for an article
-
-content for the article
-
----
-bottom of page

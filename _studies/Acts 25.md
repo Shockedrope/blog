@@ -3,6 +3,7 @@ tags:
   - bible
   - study
 title: Acts 25
+date: 2025-04-22
 ---
 ## Highlight 
 Then, at the command of Festus, Paul was brought in. 24 And Festus said, “King Agrippa and all who are present with us, you see this man about whom the whole Jewish people petitioned me,  (Acts 25:23–24, ESV, https://ref.ly/logosres/LLS:1.0.710?ref=BibleESV.Ac25.23-24)
