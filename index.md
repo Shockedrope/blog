@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Notes for sharing
 ---
 Some content here
 some more content down here
