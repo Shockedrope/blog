@@ -2,6 +2,7 @@
 tags:
   - bible
   - study
+title: Acts 26
 ---
 ## Highlight 
 25 But Paul said, “I am not out of my mind, most excellent Festus, but I am speaking true and rational words.
