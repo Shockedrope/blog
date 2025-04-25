@@ -1,4 +1,1 @@
-remote_theme: pages-themes/midnight@v0.2.0
-title: friendly blog
-tagline: to share my notes
-description: a public access to some of my notes and thoughts
+theme: minima
